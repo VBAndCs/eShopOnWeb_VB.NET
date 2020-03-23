@@ -16,11 +16,11 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Web.VB/1.0.0": {
+      "Web.vb/1.0.0": {
         "dependencies": {
-          "ApplicationCore": "1.0.0",
+          "ApplicationCore.cs": "1.0.0",
           "Ardalis.ListStartupServices": "1.1.3",
-          "Infrastructure": "1.0.0",
+          "Infrastructure.vb": "1.0.0",
           "MediatR": "7.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "7.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.1.0",
@@ -311,10 +311,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "Web.VB.dll": {}
+          "Web.vb.dll": {}
         },
         "compile": {
-          "Web.VB.dll": {}
+          "Web.vb.dll": {}
         }
       },
       "Ardalis.EFCore.Extensions/1.1.0": {
@@ -3271,31 +3271,31 @@
           "lib/netstandard2.0/ZML.dll": {}
         }
       },
-      "ApplicationCore/1.0.0": {
+      "ApplicationCore.cs/1.0.0": {
         "dependencies": {
           "Ardalis.GuardClauses": "1.3.1",
           "System.Security.Claims": "4.3.0"
         },
         "runtime": {
-          "ApplicationCore.dll": {}
+          "ApplicationCore.cs.dll": {}
         },
         "compile": {
-          "ApplicationCore.dll": {}
+          "ApplicationCore.cs.dll": {}
         }
       },
-      "Infrastructure/1.0.0": {
+      "Infrastructure.vb/1.0.0": {
         "dependencies": {
-          "ApplicationCore": "1.0.0",
+          "ApplicationCore.cs": "1.0.0",
           "Ardalis.EFCore.Extensions": "1.1.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.0"
         },
         "runtime": {
-          "Infrastructure.dll": {}
+          "Infrastructure.vb.dll": {}
         },
         "compile": {
-          "Infrastructure.dll": {}
+          "Infrastructure.vb.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -4933,7 +4933,7 @@
     }
   },
   "libraries": {
-    "Web.VB/1.0.0": {
+    "Web.vb/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -6765,12 +6765,12 @@
       "path": "zml.1.0/1.1.2",
       "hashPath": "zml.1.0.1.1.2.nupkg.sha512"
     },
-    "ApplicationCore/1.0.0": {
+    "ApplicationCore.cs/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Infrastructure/1.0.0": {
+    "Infrastructure.vb/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

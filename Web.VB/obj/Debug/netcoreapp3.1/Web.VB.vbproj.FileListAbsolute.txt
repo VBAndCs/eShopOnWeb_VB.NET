@@ -894,10 +894,6 @@ F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\runtimes\win-
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.dll
-F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Infrastructure.dll
-F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
-F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Infrastructure.pdb
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.vbprojAssemblyReference.cache
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.vbproj.CoreCompileInputs.cache
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.MvcApplicationPartsAssemblyInfo.vb
@@ -910,3 +906,7 @@ F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\staticwebasse
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.pdb
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.genruntimeconfig.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.cs.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Infrastructure.vb.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.cs.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Infrastructure.vb.pdb

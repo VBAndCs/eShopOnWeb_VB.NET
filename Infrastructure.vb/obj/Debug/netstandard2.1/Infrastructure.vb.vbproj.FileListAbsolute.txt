@@ -1,0 +1,12 @@
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\bin\Debug\netstandard2.1\Infrastructure.vb.deps.json
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\bin\Debug\netstandard2.1\Infrastructure.vb.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\bin\Debug\netstandard2.1\Infrastructure.vb.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\bin\Debug\netstandard2.1\ApplicationCore.cs.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\bin\Debug\netstandard2.1\ApplicationCore.cs.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\obj\Debug\netstandard2.1\Infrastructure.vb.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\obj\Debug\netstandard2.1\Infrastructure.vb.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\obj\Debug\netstandard2.1\Infrastructure.vb.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\obj\Debug\netstandard2.1\Infrastructure.vb.AssemblyInfo.vb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\obj\Debug\netstandard2.1\Infrastructure.vb.vbproj.CopyComplete
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\obj\Debug\netstandard2.1\Infrastructure.vb.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure.vb\obj\Debug\netstandard2.1\Infrastructure.vb.pdb

@@ -63,8 +63,8 @@
     <None Include="wwwroot\images\products\9.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ApplicationCore\ApplicationCore.csproj" />
-    <ProjectReference Include="..\Infrastructure\Infrastructure.vbproj" />
+    <ProjectReference Include="..\ApplicationCore.cs\ApplicationCore.cs.csproj" />
+    <ProjectReference Include="..\Infrastructure.vb\Infrastructure.vb.vbproj" />
   </ItemGroup>
   <ItemGroup>
     <Content Update="appsettings.json">
