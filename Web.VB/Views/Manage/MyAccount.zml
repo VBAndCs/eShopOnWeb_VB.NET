@@ -1,0 +1,45 @@
+﻿<z:model type="IndexViewModel" />
+<z:title>Profile</z:title>
+<z:viewdata @ManageNavPages.ActivePageKey="@ManageNavPages.Index" />
+
+<h4><z:title /></h4>
+<partial name="_StatusMessage" for="StatusMessage" />
+<div class="row">
+    <div class="col-md-6">
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Username"></label>
+                <input asp-for="Username" class="form-control" disabled="disabled" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <z:if condition="Model.IsEmailConfirmed">
+                    <z:then>
+                        <div class="input-group">
+                            <input asp-for="Email" class="form-control" />
+                            <span class="input-group-addon" aria-hidden="true">
+                                <span class="glyphicon glyphicon-ok text-success"/>
+                            </span>
+                        </div>
+                    </z:then>
+                    <z:else>
+                        <input asp-for="Email" class="form-control" />
+                        <button asp-action="SendVerificationEmail" class="btn btn-link">Send verification email</button>
+                    </z:else>
+                </z:if>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber"/>
+                <input asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger" />
+            </div>
+            <button type="submit" class="btn btn-default">Save</button>
+        </form>
+    </div>
+</div>
+
+<z:section name="Scripts">
+    <partial name="_ValidationScriptsPartial" />
+</z:section>

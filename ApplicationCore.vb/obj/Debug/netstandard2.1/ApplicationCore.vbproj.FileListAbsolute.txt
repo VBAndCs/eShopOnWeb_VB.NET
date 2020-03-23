@@ -1,0 +1,18 @@
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfo.vb
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.deps.json
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.dll
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.pdb
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.dll
+F:\_VS.NET\Vazor 3\New folder\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.pdb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.deps.json
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.dll
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\bin\Debug\netstandard2.1\ApplicationCore.pdb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.AssemblyInfo.vb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.dll
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.pdb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\ApplicationCore\obj\Debug\netstandard2.1\ApplicationCore.vbprojAssemblyReference.cache

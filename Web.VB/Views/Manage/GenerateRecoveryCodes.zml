@@ -1,0 +1,24 @@
+﻿<z:model type="GenerateRecoveryCodesViewModel" />
+<z:title>Recovery codes</z:title>
+<z:viewdata @ManageNavPages.ActivePageKey="@ManageNavPages.TwoFactorAuthentication" />
+
+<h4><z:title/></h4>
+<div class="alert alert-warning" role="alert">
+    <p>
+        <span class="glyphicon glyphicon-warning-sign"></span>
+        <strong>Put these codes in a safe place.</strong>
+    </p>
+    <p>
+        If you lose your device and don't have the recovery codes you will lose access to your account.
+    </p>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <z:for row="0" to="Model.RecoveryCodes.Count()-1" step="2">
+            <code>@Model.RecoveryCodes[row]</code>
+            <text>&nbsp;</text>
+            <code>@Model.RecoveryCodes[row + 1]</code>
+            <br />
+        </z:for>
+    </div>
+</div>

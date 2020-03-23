@@ -1,0 +1,10 @@
+﻿<z:imports 
+         Microsoft.eShopWeb.Web
+         Microsoft.eShopWeb.Web.ViewModels
+         Microsoft.eShopWeb.Web.ViewModels.Account
+         Microsoft.eShopWeb.Web.ViewModels.Manage
+         Microsoft.eShopWeb.Web.Pages
+         Microsoft.AspNetCore.Identity
+         Microsoft.eShopWeb.Infrastructure.Identity/>
+<z:namespace Microsoft.eShopWeb.Web.Pages/>
+<z:helpers Microsoft.AspNetCore.Mvc.TagHelpers="*"/>

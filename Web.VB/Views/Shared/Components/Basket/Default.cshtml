@@ -1,0 +1,17 @@
+@* <!-- This cshtml file is auto-generated from the Default.zml file. 
+You must not do any changes here, because it can be overwritten 
+when the Default.zml file changes.
+Make all the changes you need to the Default.zml file.
+But even this is an auto-generated, DONT DELETE this file 
+from the soluton explorer, becuase there is a cshtml.vb file attached to, 
+and will also be deleted with all the code you wrote in it!  --> *@
+@model BasketComponentViewModel
+@{ ViewData["Title"] = "My Basket"; }
+<a class="esh-basketstatus" asp-page="/Basket/Index">
+  <div class="esh-basketstatus-image">
+    <img src="~/images/cart.png" />
+  </div>
+  <div class="esh-basketstatus-badge">
+          @Model.ItemsCount
+      </div>
+</a>

@@ -1,0 +1,18 @@
+@* <!-- This cshtml file is auto-generated from the _StatusMessage.zml file. 
+You must not do any changes here, because it can be overwritten 
+when the _StatusMessage.zml file changes.
+Make all the changes you need to the _StatusMessage.zml file.
+But even this is an auto-generated, DONT DELETE this file 
+from the soluton explorer, becuase there is a cshtml.vb file attached to, 
+and will also be deleted with all the code you wrote in it!  --> *@
+@model string
+@if (! String.IsNullOrEmpty(Model))
+{
+  var statusMessageClass = Model.StartsWith("Error") ? "danger" : "success";
+  <div class="alert alert-@statusMessageClass alert-dismissible" role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    @Model
+</div>
+}

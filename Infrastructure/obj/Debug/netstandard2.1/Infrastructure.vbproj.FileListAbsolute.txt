@@ -1,0 +1,28 @@
+F:\_VS.NET\Vazor 3\New folder\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor 3\New folder\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\New folder\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\New folder\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.vb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.vb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\ApplicationCore.dll
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\ApplicationCore.pdb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbproj.CopyComplete
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\ApplicationCore.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\bin\Debug\netstandard2.1\ApplicationCore.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.vb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.vbproj.CopyComplete
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

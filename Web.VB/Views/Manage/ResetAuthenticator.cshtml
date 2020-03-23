@@ -1,0 +1,29 @@
+@* <!-- This cshtml file is auto-generated from the ResetAuthenticator.zml file. 
+You must not do any changes here, because it can be overwritten 
+when the ResetAuthenticator.zml file changes.
+Make all the changes you need to the ResetAuthenticator.zml file.
+But even this is an auto-generated, DONT DELETE this file 
+from the soluton explorer, becuase there is a cshtml.vb file attached to, 
+and will also be deleted with all the code you wrote in it!  --> *@
+@{ ViewData["Title"] = "Reset authenticator key"; }
+@{
+ViewData[ManageNavPages.ActivePageKey] = ManageNavPages.TwoFactorAuthentication;
+}
+<h4>
+  @ViewData["Title"]
+</h4>
+<div class="alert alert-warning" role="alert">
+  <p>
+    <span class="glyphicon glyphicon-warning-sign"></span>
+    <strong>If you reset your authenticator key your authenticator app will not work until you reconfigure it.</strong>
+  </p>
+  <p>
+      This process disables 2FA until you verify your authenticator app and will also reset your 2FA recovery codes.
+      If you do not complete your authenticator app configuration you may lose access to your account.
+  </p>
+</div>
+<div>
+  <form asp-action="ResetAuthenticator" method="post" class="form-group">
+    <button class="btn btn-danger" type="submit">Reset authenticator key</button>
+  </form>
+</div>

@@ -1,0 +1,57 @@
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.AssemblyInfo.vb
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\appsettings.json
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.deps.json
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.runtimeconfig.json
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.runtimeconfig.dev.json
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.dll
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.pdb
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Infrastructure.dll
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Vazor1.6.dll
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Vazor1.6.pdb
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbproj.CopyComplete
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.dll
+F:\_VS.NET\Vazor Website\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\appsettings.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.deps.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.runtimeconfig.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.runtimeconfig.dev.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Infrastructure.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Vazor1.6.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Vazor1.6.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.AssemblyInfo.vb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbproj.CopyComplete
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_Vazor\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\appsettings.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.deps.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.runtimeconfig.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.runtimeconfig.dev.json
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\eShopOnWeb_zml.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\ApplicationCore.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\Infrastructure.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\Vazor1.6.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\Vazor1.6.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\ApplicationCore.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\bin\Debug\netcoreapp2.2\Infrastructure.pdb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbprojAssemblyReference.cache
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.AssemblyInfo.vb
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.vbproj.CopyComplete
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.dll
+F:\_VS.NET\Vazor\eShopOnWeb.zml\eShopOnWeb_zml\obj\Debug\netcoreapp2.2\eShopOnWeb_zml.pdb

@@ -1,0 +1,41 @@
+﻿<z:model type="IEnumerable(Of OrderViewModel)" />
+<z:title>My Order History</z:title>
+
+<div class="esh-orders">
+            <div class="container">
+                <h1><z:title /></h1>
+                <article class="esh-orders-titles row">
+                    <section class="esh-orders-title col-xs-2">Order number</section>
+                    <section class="esh-orders-title col-xs-4">Date</section>
+                    <section class="esh-orders-title col-xs-2">Total</section>
+                    <section class="esh-orders-title col-xs-2">Status</section>
+                    <section class="esh-orders-title col-xs-2"></section>
+                </article>
+                <z:if condition="Model isnot nothing AndAlso Model.Any()">
+                    <z:foreach var="item" in="Model">
+                        <article class="esh-orders-items row">
+                            <section class="esh-orders-item col-xs-2">
+                                <z:displayfor var="modelItem" return="item.OrderNumber" />
+                            </section>
+                            <section class="esh-orders-item col-xs-4">
+                                <z:displayfor var="modelItem" return="item.OrderDate" />
+                            </section>
+                            <section class="esh-orders-item col-xs-2">
+                                 $ <z:displayfor var="modelItem" return="item.Total" />
+                            </section>
+                            <section class="esh-orders-item col-xs-2">
+                                <z:displayfor var="modelItem" return="item.Status"/>
+                            </section>
+                            <section class="esh-orders-item col-xs-1">
+                                <a class="esh-orders-link" asp-controller="Order" asp-action="Detail" asp-route-orderId="@item.OrderNumber">Detail</a>
+                            </section>
+                            <section class="esh-orders-item col-xs-1">
+                                <z:if condition="item.Status.ToLower() = ''submitted''">
+                                    <a class="esh-orders-link" asp-controller="Order" asp-action="cancel" asp-route-orderId="@item.OrderNumber">Cancel</a>
+                                </z:if>
+                            </section>
+                        </article>
+                    </z:foreach>
+                </z:if>
+            </div>
+        </div>

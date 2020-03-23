@@ -1,0 +1,4 @@
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\tests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csprojAssemblyReference.cache
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\tests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\tests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\Vazor\eShopOnWeb.vazor\tests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs

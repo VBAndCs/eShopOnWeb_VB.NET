@@ -1,0 +1,35 @@
+@* <!-- This cshtml file is auto-generated from the GenerateRecoveryCodes.zml file. 
+You must not do any changes here, because it can be overwritten 
+when the GenerateRecoveryCodes.zml file changes.
+Make all the changes you need to the GenerateRecoveryCodes.zml file.
+But even this is an auto-generated, DONT DELETE this file 
+from the soluton explorer, becuase there is a cshtml.vb file attached to, 
+and will also be deleted with all the code you wrote in it!  --> *@
+@model GenerateRecoveryCodesViewModel
+@{ ViewData["Title"] = "Recovery codes"; }
+@{
+ViewData[ManageNavPages.ActivePageKey] = ManageNavPages.TwoFactorAuthentication;
+}
+<h4>
+  @ViewData["Title"]
+</h4>
+<div class="alert alert-warning" role="alert">
+  <p>
+    <span class="glyphicon glyphicon-warning-sign"></span>
+    <strong>Put these codes in a safe place.</strong>
+  </p>
+  <p>
+      If you lose your device and don't have the recovery codes you will lose access to your account.
+  </p>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    @for (var row = 0; row < Model.RecoveryCodes.Count()-1 + 1; row += 2)
+    {
+      <code>@Model.RecoveryCodes[row]</code>
+      <text>&nbsp;</text>
+      <code>@Model.RecoveryCodes[row + 1]</code>
+      <br />
+    }
+  </div>
+</div>

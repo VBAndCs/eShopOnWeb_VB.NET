@@ -1,0 +1,13 @@
+﻿<z:model type="string"/>
+
+<z:if condition="Not String.IsNullOrEmpty(Model)">
+    <z:declare var="statusMessageClass">
+       <z:check condition="Model.StartsWith(''Error'')" iftrue="danger" iffalse="success" />
+    </z:declare>
+    <div class="alert alert-@statusMessageClass alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+             <span aria-hidden="true">&times;</span>
+        </button>
+        @Model
+    </div>
+</z:if>
