@@ -7,11 +7,11 @@ I created a VB.NET version of this app, using [Vazor](https://github.com/VBAndCs
 I hope VB.NEt developers found it useful, and start creating their web applications targeting ASP.NET Core 3.1 using VB.NET and Vazor.
 
 The solution contains 3 projects:
-1. ApplicationCore.cv:
+1. ApplicationCore.vb: 
 a VB.NET .NET standard library project that contains database entities and expressions needed to configure EF Core.
-2. Infrastructure.vb
+2. Infrastructure.vb: 
 a VB.NET .NET standard library project that defins the data repository, database context, data megrations, and other services.
-3. Web.vb
+3. Web.vb: 
 a VB.NET ASP.NET Core 3.1 project, that contains MVC views and Razor Pages that designs the website.
 
 Eng. Mohammed Hamdy Ghanem,
