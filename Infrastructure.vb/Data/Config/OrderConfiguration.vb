@@ -14,11 +14,25 @@ Namespace Data.Config
                 Function(o) o.ShipToAddress,
                                 Sub(x)
                                     x.WithOwner()
-                                    x.Property(Function(a) a.ZipCode).HasMaxLength(18).IsRequired()
-                                    x.Property(Function(a) a.Street).HasMaxLength(180).IsRequired()
-                                    x.Property(Function(a) a.State).HasMaxLength(60)
-                                    x.Property(Function(a) a.Country).HasMaxLength(90).IsRequired()
-                                    x.Property(Function(a) a.City).HasMaxLength(100).IsRequired()
+
+                                    x.Property(NameOf(Address.ZipCode)
+                                               ).HasMaxLength(18).
+                                               IsRequired()
+
+                                    x.Property(NameOf(Address.Street)
+                                               ).HasMaxLength(180).
+                                               IsRequired()
+
+                                    x.Property(NameOf(Address.State)
+                                               ).HasMaxLength(60)
+
+                                    x.Property(NameOf(Address.Country)
+                                               ).HasMaxLength(90).
+                                               IsRequired()
+
+                                    x.Property(NameOf(Address.City)
+                                               ).HasMaxLength(100).
+                                               IsRequired()
                                 End Sub
             )
         End Sub

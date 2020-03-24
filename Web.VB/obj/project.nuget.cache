@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PSifTqQHct51ljAiT+aLscZ5sN9bw+x2KYVYId1z4W1UIDzd3fDyl+rvTHQXqWb7n0QnsFYkzH6l78sMkQ8csg==",
+  "dgSpecHash": "XHS+z+IYGifP3IYpNbBuY5JN7sNVTQY38JntvQXUzifT7KtXIRYjlDhzHqCtQmqQD+9zgDJl+H4QSoo0+xMjeA==",
   "success": true,
   "projectFilePath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\Web.VB\\Web.vb.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\MHG\\.nuget\\packages\\ardalis.efcore.extensions\\1.1.0\\ardalis.efcore.extensions.1.1.0.nupkg.sha512",
-    "C:\\Users\\MHG\\.nuget\\packages\\ardalis.guardclauses\\1.3.1\\ardalis.guardclauses.1.3.1.nupkg.sha512",
+    "C:\\Users\\MHG\\.nuget\\packages\\ardalis.guardclauses\\1.4.2\\ardalis.guardclauses.1.4.2.nupkg.sha512",
     "C:\\Users\\MHG\\.nuget\\packages\\ardalis.liststartupservices\\1.1.3\\ardalis.liststartupservices.1.1.3.nupkg.sha512",
+    "C:\\Users\\MHG\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
     "C:\\Users\\MHG\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\MHG\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\MHG\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\7.0.0\\mediatr.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
@@ -121,7 +122,6 @@
     "C:\\Users\\MHG\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.templating\\3.1.0\\microsoft.visualstudio.web.codegeneration.templating.3.1.0.nupkg.sha512",
     "C:\\Users\\MHG\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\3.1.0\\microsoft.visualstudio.web.codegeneration.utils.3.1.0.nupkg.sha512",
     "C:\\Users\\MHG\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\3.1.0\\microsoft.visualstudio.web.codegenerators.mvc.3.1.0.nupkg.sha512",
-    "C:\\Users\\MHG\\.nuget\\packages\\microsoft.web.librarymanager.build\\2.0.96\\microsoft.web.librarymanager.build.2.0.96.nupkg.sha512",
     "C:\\Users\\MHG\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",

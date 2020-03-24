@@ -1,0 +1,9 @@
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\bin\Debug\netstandard2.1\ApplicationCore.vb.deps.json
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\bin\Debug\netstandard2.1\ApplicationCore.vb.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\bin\Debug\netstandard2.1\ApplicationCore.vb.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\obj\Debug\netstandard2.1\ApplicationCore.vb.vbproj.CoreCompileInputs.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\obj\Debug\netstandard2.1\ApplicationCore.vb.AssemblyInfoInputs.cache
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\obj\Debug\netstandard2.1\ApplicationCore.vb.AssemblyInfo.vb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\obj\Debug\netstandard2.1\ApplicationCore.vb.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\obj\Debug\netstandard2.1\ApplicationCore.vb.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\ApplicationCore.vb\obj\Debug\netstandard2.1\ApplicationCore.vb.vbprojAssemblyReference.cache

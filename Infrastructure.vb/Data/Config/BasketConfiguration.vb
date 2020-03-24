@@ -13,10 +13,9 @@ Namespace Data.Config
             Dim navigation = builder.Metadata.FindNavigation(NameOf(Basket.Items))
             navigation.SetPropertyAccessMode(PropertyAccessMode.Field)
 
-            builder.Property(
-                Function(b) b.BuyerId
-                ).IsRequired().
-                  HasMaxLength(40)
+            builder.Property(NameOf(Basket.BuyerId)
+                         ).IsRequired().
+                           HasMaxLength(40)
         End Sub
     End Class
 End Namespace

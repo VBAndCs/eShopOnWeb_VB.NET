@@ -17,6 +17,6 @@
 	</ItemGroup>
 	
   <ItemGroup>
-    <ProjectReference Include="..\ApplicationCore.cs\ApplicationCore.cs.csproj" />
+    <ProjectReference Include="..\ApplicationCore.vb\ApplicationCore.vb.vbproj" />
   </ItemGroup>
 </Project>

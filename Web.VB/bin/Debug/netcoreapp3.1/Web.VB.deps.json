@@ -18,7 +18,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Web.vb/1.0.0": {
         "dependencies": {
-          "ApplicationCore.cs": "1.0.0",
+          "ApplicationCore.vb": "1.0.0",
           "Ardalis.ListStartupServices": "1.1.3",
           "Infrastructure.vb": "1.0.0",
           "MediatR": "7.0.0",
@@ -32,7 +32,6 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.0",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.0",
-          "Microsoft.Web.LibraryManager.Build": "2.0.96",
           "Swashbuckle.AspNetCore": "5.0.0-rc2",
           "Swashbuckle.AspNetCore.SwaggerUI": "5.0.0-rc4",
           "Vazor": "1.8.3",
@@ -331,14 +330,15 @@
           "lib/netstandard2.0/Ardalis.EFCore.Extensions.dll": {}
         }
       },
-      "Ardalis.GuardClauses/1.3.1": {
+      "Ardalis.GuardClauses/1.4.2": {
         "dependencies": {
+          "JetBrains.Annotations": "2019.1.3",
           "NETStandard.Library": "1.6.1"
         },
         "runtime": {
           "lib/netstandard1.1/Ardalis.GuardClauses.dll": {
-            "assemblyVersion": "1.3.1.0",
-            "fileVersion": "1.3.1.0"
+            "assemblyVersion": "1.4.2.0",
+            "fileVersion": "1.4.2.0"
           }
         },
         "compile": {
@@ -358,6 +358,17 @@
         },
         "compile": {
           "lib/netcoreapp1.1/Ardalis.ListStartupServices.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2019.1.3": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2019.1.3.0",
+            "fileVersion": "2019.1.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {}
         }
       },
       "Libuv/1.9.1": {
@@ -1762,11 +1773,6 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {}
-        }
-      },
-      "Microsoft.Web.LibraryManager.Build/2.0.96": {
-        "dependencies": {
-          "System.Runtime.Loader": "4.3.0"
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -3271,21 +3277,21 @@
           "lib/netstandard2.0/ZML.dll": {}
         }
       },
-      "ApplicationCore.cs/1.0.0": {
+      "ApplicationCore.vb/1.0.0": {
         "dependencies": {
-          "Ardalis.GuardClauses": "1.3.1",
+          "Ardalis.GuardClauses": "1.4.2",
           "System.Security.Claims": "4.3.0"
         },
         "runtime": {
-          "ApplicationCore.cs.dll": {}
+          "ApplicationCore.vb.dll": {}
         },
         "compile": {
-          "ApplicationCore.cs.dll": {}
+          "ApplicationCore.vb.dll": {}
         }
       },
       "Infrastructure.vb/1.0.0": {
         "dependencies": {
-          "ApplicationCore.cs": "1.0.0",
+          "ApplicationCore.vb": "1.0.0",
           "Ardalis.EFCore.Extensions": "1.1.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.1.0",
@@ -4945,12 +4951,12 @@
       "path": "ardalis.efcore.extensions/1.1.0",
       "hashPath": "ardalis.efcore.extensions.1.1.0.nupkg.sha512"
     },
-    "Ardalis.GuardClauses/1.3.1": {
+    "Ardalis.GuardClauses/1.4.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-he3qia7HcEupMG1WBcixrEL372i9iMUWcOfF/2BV9qu5wcJJ1sQgWJw1pHiZkFMDN8V4QnSL0US21y1l8HfvfA==",
-      "path": "ardalis.guardclauses/1.3.1",
-      "hashPath": "ardalis.guardclauses.1.3.1.nupkg.sha512"
+      "sha512": "sha512-O8CWAecu5EbJ7EG+7iIe+/PxsCv5YGMe3vtTC39LJzWPlecy8LaCY/VThS85RWb3lq1uFU/+jIFjCXXe0nbRTg==",
+      "path": "ardalis.guardclauses/1.4.2",
+      "hashPath": "ardalis.guardclauses.1.4.2.nupkg.sha512"
     },
     "Ardalis.ListStartupServices/1.1.3": {
       "type": "package",
@@ -4958,6 +4964,13 @@
       "sha512": "sha512-fxSImCE5jrIwPd8UlHoYKc7flteTSpD5jS+WYWfuTpo2RcHIlxecFRrFF/bw1agd4NMaTLT6XeFxkFl2fA1d3w==",
       "path": "ardalis.liststartupservices/1.1.3",
       "hashPath": "ardalis.liststartupservices.1.1.3.nupkg.sha512"
+    },
+    "JetBrains.Annotations/2019.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E0x48BwZJKoNMNCekWGKsV4saQS89lf58ydT2szseV44CMYIbaHXjc7+305WLw6up3ibZN9yH6QdGSZo5tQhLg==",
+      "path": "jetbrains.annotations/2019.1.3",
+      "hashPath": "jetbrains.annotations.2019.1.3.nupkg.sha512"
     },
     "Libuv/1.9.1": {
       "type": "package",
@@ -5756,13 +5769,6 @@
       "sha512": "sha512-y4EFZyLFlFMetMJbR8SJZmy9Ba4Pj5oozhdwksnobn+v+yGTZoWxRTNRSRSRi8n+CE+oxWMcyd8RUiGCJGj2rg==",
       "path": "microsoft.visualstudio.web.codegenerators.mvc/3.1.0",
       "hashPath": "microsoft.visualstudio.web.codegenerators.mvc.3.1.0.nupkg.sha512"
-    },
-    "Microsoft.Web.LibraryManager.Build/2.0.96": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-E6673JBzjfwoe3HlVAAxRchfUYloRsCwO/uWyjHswb0PZeFdRjYUJsLU3v4o3l2RQ596bGrLKv6rCWfbVDy0iQ==",
-      "path": "microsoft.web.librarymanager.build/2.0.96",
-      "hashPath": "microsoft.web.librarymanager.build.2.0.96.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",
@@ -6765,7 +6771,7 @@
       "path": "zml.1.0/1.1.2",
       "hashPath": "zml.1.0.1.1.2.nupkg.sha512"
     },
-    "ApplicationCore.cs/1.0.0": {
+    "ApplicationCore.vb/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -20,7 +20,7 @@ Namespace Specifications
         Public Property Skip As Integer Implements ISpecification(Of T).Skip
         Public Property IsPagingEnabled As Boolean = False Implements ISpecification(Of T).IsPagingEnabled
 
-        Protected Overridable Sub AddInclude(ByVal includeExpression As Expression(Of Func(Of T, Object)))
+        Protected Overridable Sub AddInclude(ByVal includeExpression As Expression(Of Func(Of T, System.Object)))
             Includes.Add(includeExpression)
         End Sub
 
@@ -50,5 +50,6 @@ Namespace Specifications
         Protected Overridable Sub ApplyGroupBy(ByVal groupByExpression As Expression(Of Func(Of T, Object)))
             GroupBy = groupByExpression
         End Sub
+
     End Class
 End Namespace

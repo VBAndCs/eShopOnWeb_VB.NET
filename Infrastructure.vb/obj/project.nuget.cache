@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xB4kPrMFTxin3T/nsSwvpH1Fa35JpwV7UJQt1HN1NZUZZzeAZnwN1VPzJGTA3sD78RAzPXecqNtxAhnEfE7ffg==",
+  "dgSpecHash": "gwg5AszSJLU4GqJpYC5YD59bWNBt1b9lOgrS/ePekZ9/raI7HqgvQhF6MLznkDwe8a3R6Vd1/pwjs7o0nf7fxA==",
   "success": true,
   "projectFilePath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\Infrastructure.vb\\Infrastructure.vb.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\MHG\\.nuget\\packages\\ardalis.efcore.extensions\\1.1.0\\ardalis.efcore.extensions.1.1.0.nupkg.sha512",
-    "C:\\Users\\MHG\\.nuget\\packages\\ardalis.guardclauses\\1.3.1\\ardalis.guardclauses.1.3.1.nupkg.sha512",
+    "C:\\Users\\MHG\\.nuget\\packages\\ardalis.guardclauses\\1.4.2\\ardalis.guardclauses.1.4.2.nupkg.sha512",
+    "C:\\Users\\MHG\\.nuget\\packages\\jetbrains.annotations\\2019.1.3\\jetbrains.annotations.2019.1.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",

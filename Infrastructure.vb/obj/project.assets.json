@@ -14,9 +14,10 @@
           "lib/netstandard2.0/Ardalis.EFCore.Extensions.dll": {}
         }
       },
-      "Ardalis.GuardClauses/1.3.1": {
+      "Ardalis.GuardClauses/1.4.2": {
         "type": "package",
         "dependencies": {
+          "JetBrains.Annotations": "2019.1.3",
           "NETStandard.Library": "1.6.1"
         },
         "compile": {
@@ -24,6 +25,15 @@
         },
         "runtime": {
           "lib/netstandard1.1/Ardalis.GuardClauses.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2019.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authentication/2.2.0": {
@@ -2365,18 +2375,18 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "ApplicationCore.cs/1.0.0": {
+      "ApplicationCore.vb/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "Ardalis.GuardClauses": "1.3.1",
+          "Ardalis.GuardClauses": "1.4.2",
           "System.Security.Claims": "4.3.0"
         },
         "compile": {
-          "bin/placeholder/ApplicationCore.cs.dll": {}
+          "bin/placeholder/ApplicationCore.vb.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ApplicationCore.cs.dll": {}
+          "bin/placeholder/ApplicationCore.vb.dll": {}
         }
       }
     }
@@ -2395,19 +2405,42 @@
         "lib/netstandard2.0/Ardalis.EFCore.Extensions.pdb"
       ]
     },
-    "Ardalis.GuardClauses/1.3.1": {
-      "sha512": "he3qia7HcEupMG1WBcixrEL372i9iMUWcOfF/2BV9qu5wcJJ1sQgWJw1pHiZkFMDN8V4QnSL0US21y1l8HfvfA==",
+    "Ardalis.GuardClauses/1.4.2": {
+      "sha512": "O8CWAecu5EbJ7EG+7iIe+/PxsCv5YGMe3vtTC39LJzWPlecy8LaCY/VThS85RWb3lq1uFU/+jIFjCXXe0nbRTg==",
       "type": "package",
-      "path": "ardalis.guardclauses/1.3.1",
+      "path": "ardalis.guardclauses/1.4.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "ardalis.guardclauses.1.3.1.nupkg.sha512",
+        "ardalis.guardclauses.1.4.2.nupkg.sha512",
         "ardalis.guardclauses.nuspec",
         "lib/net40/Ardalis.GuardClauses.dll",
         "lib/net40/Ardalis.GuardClauses.pdb",
+        "lib/net40/Ardalis.GuardClauses.xml",
         "lib/netstandard1.1/Ardalis.GuardClauses.dll",
-        "lib/netstandard1.1/Ardalis.GuardClauses.pdb"
+        "lib/netstandard1.1/Ardalis.GuardClauses.pdb",
+        "lib/netstandard1.1/Ardalis.GuardClauses.xml"
+      ]
+    },
+    "JetBrains.Annotations/2019.1.3": {
+      "sha512": "E0x48BwZJKoNMNCekWGKsV4saQS89lf58ydT2szseV44CMYIbaHXjc7+305WLw6up3ibZN9yH6QdGSZo5tQhLg==",
+      "type": "package",
+      "path": "jetbrains.annotations/2019.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "jetbrains.annotations.2019.1.3.nupkg.sha512",
+        "jetbrains.annotations.nuspec",
+        "lib/net20/JetBrains.Annotations.dll",
+        "lib/net20/JetBrains.Annotations.xml",
+        "lib/netstandard1.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard1.0/JetBrains.Annotations.dll",
+        "lib/netstandard1.0/JetBrains.Annotations.xml",
+        "lib/netstandard2.0/JetBrains.Annotations.deps.json",
+        "lib/netstandard2.0/JetBrains.Annotations.dll",
+        "lib/netstandard2.0/JetBrains.Annotations.xml",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.dll",
+        "lib/portable40-net40+sl5+win8+wp8+wpa81/JetBrains.Annotations.xml"
       ]
     },
     "Microsoft.AspNetCore.Authentication/2.2.0": {
@@ -7828,15 +7861,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "ApplicationCore.cs/1.0.0": {
+    "ApplicationCore.vb/1.0.0": {
       "type": "project",
-      "path": "../ApplicationCore.cs/ApplicationCore.cs.csproj",
-      "msbuildProject": "../ApplicationCore.cs/ApplicationCore.cs.csproj"
+      "path": "../ApplicationCore.vb/ApplicationCore.vb.vbproj",
+      "msbuildProject": "../ApplicationCore.vb/ApplicationCore.vb.vbproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "ApplicationCore.cs >= 1.0.0",
+      "ApplicationCore.vb >= 1.0.0",
       "Ardalis.EFCore.Extensions >= 1.1.0",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.0",
@@ -7875,8 +7908,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\ApplicationCore.cs.csproj": {
-              "projectPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\ApplicationCore.cs.csproj"
+            "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj": {
+              "projectPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj"
             }
           }
         }

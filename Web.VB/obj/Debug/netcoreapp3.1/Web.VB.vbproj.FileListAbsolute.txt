@@ -739,7 +739,6 @@ F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\refs\System.X
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Ardalis.EFCore.Extensions.dll
-F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Ardalis.GuardClauses.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Ardalis.ListStartupServices.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\MediatR.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
@@ -906,7 +905,9 @@ F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\staticwebasse
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.pdb
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\obj\Debug\netcoreapp3.1\Web.VB.genruntimeconfig.cache
-F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.cs.dll
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Infrastructure.vb.dll
-F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.cs.pdb
 F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Infrastructure.vb.pdb
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\Ardalis.GuardClauses.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\JetBrains.Annotations.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.vb.dll
+F:\_VS.NET\Vazor 3\eShopOnWeb.vazor\Web.VB\bin\Debug\netcoreapp3.1\ApplicationCore.vb.pdb

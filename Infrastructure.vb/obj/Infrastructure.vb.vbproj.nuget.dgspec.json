@@ -4,14 +4,14 @@
     "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\Infrastructure.vb\\Infrastructure.vb.vbproj": {}
   },
   "projects": {
-    "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\ApplicationCore.cs.csproj": {
+    "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\ApplicationCore.cs.csproj",
-        "projectName": "ApplicationCore.cs",
-        "projectPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\ApplicationCore.cs.csproj",
+        "projectUniqueName": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj",
+        "projectName": "ApplicationCore.vb",
+        "projectPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj",
         "packagesPath": "C:\\Users\\MHG\\.nuget\\packages\\",
-        "outputPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\obj\\",
+        "outputPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -44,7 +44,7 @@
           "dependencies": {
             "Ardalis.GuardClauses": {
               "target": "Package",
-              "version": "[1.3.1, )"
+              "version": "[1.4.2, )"
             },
             "System.Security.Claims": {
               "target": "Package",
@@ -97,8 +97,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\ApplicationCore.cs.csproj": {
-                "projectPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.cs\\ApplicationCore.cs.csproj"
+              "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj": {
+                "projectPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj"
               }
             }
           }

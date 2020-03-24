@@ -56,7 +56,10 @@ Namespace Data
         End Function
 
         Private Function ApplySpecification(spec As ISpecification(Of T)) As IQueryable(Of T)
-            Return SpecificationEvaluator(Of T).GetQuery(_dbContext.Set(Of T)().AsQueryable(), spec)
+            Return SpecificationEvaluator(Of T).GetQuery(
+                          _dbContext.Set(Of T)().AsQueryable(),
+                          spec
+                    )
         End Function
     End Class
 End Namespace

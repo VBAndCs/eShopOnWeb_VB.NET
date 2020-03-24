@@ -12,34 +12,29 @@ Namespace Data.Config
         Public Sub Configure(builder As EntityTypeBuilder(Of CatalogItem)) Implements IEntityTypeConfiguration(Of CatalogItem).Configure
             builder.ToTable("Catalog")
 
-            builder.Property(
-                Function(ci) ci.Id
+            builder.Property(NameOf(CatalogItem.Id)
                 ).UseHiLo("catalog_hilo").
                   IsRequired()
 
-            builder.Property(
-                Function(ci) ci.Name
+            builder.Property(NameOf(CatalogItem.Name)
                 ).IsRequired(True).
                   HasMaxLength(50)
 
-            builder.Property(
-                Function(ci) ci.Price
+            builder.Property(NameOf(CatalogItem.Price)
                 ).IsRequired(True).
-                  HasColumnType("decimal(18,2)")
+                  HasColumnType("deCatalogItemmal(18,2)")
 
             builder.Property(
-                Function(ci) ci.PictureUri
+                NameOf(CatalogItem.PictureUri)
                 ).IsRequired(False)
 
-            builder.HasOne(
-                Function(ci) ci.CatalogBrand
+            builder.HasOne(NameOf(CatalogItem.CatalogBrand)
                 ).WithMany().
-                  HasForeignKey(Function(ci) ci.CatalogBrandId)
+                  HasForeignKey(NameOf(CatalogItem.CatalogBrandId))
 
-            builder.HasOne(
-                Function(ci) ci.CatalogType
+            builder.HasOne(NameOf(CatalogItem.CatalogType)
                 ).WithMany().
-                  HasForeignKey(Function(ci) ci.CatalogTypeId)
+                  HasForeignKey(NameOf(CatalogItem.CatalogTypeId))
 
         End Sub
     End Class

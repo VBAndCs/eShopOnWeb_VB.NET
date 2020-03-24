@@ -15,16 +15,16 @@ Namespace Data.Config
                 Function(i) i.ItemOrdered,
                  Sub(io)
                      io.WithOwner()
-                     io.Property(Function(cio) cio.ProductName).
-                         HasMaxLength(50).
-                         IsRequired()
+                     io.Property(NameOf(CatalogItemOrdered.ProductName)
+                                 ).HasMaxLength(50).
+                                   IsRequired()
                  End Sub
             )
 
             builder.Property(
-                Function(oi) oi.UnitPrice
-                ).IsRequired(True).
-                  HasColumnType("decimal(18,2)")
+                NameOf(OrderItem.UnitPrice)
+                        ).IsRequired(True).
+                          HasColumnType("decimal(18,2)")
         End Sub
     End Class
 End Namespace

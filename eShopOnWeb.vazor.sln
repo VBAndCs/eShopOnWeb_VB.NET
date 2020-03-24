@@ -7,7 +7,7 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Web.vb", "Web.VB\Web.vb.vbp
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Infrastructure.vb", "Infrastructure.vb\Infrastructure.vb.vbproj", "{958C75C9-B56A-4B7C-9E16-2F82638E31FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationCore.cs", "ApplicationCore.cs\ApplicationCore.cs.csproj", "{AE90B768-ABB6-4008-A1CF-C64D2F874A2E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ApplicationCore.vb", "ApplicationCore.vb\ApplicationCore.vb.vbproj", "{B098C4D5-7DBE-4FEF-A875-6CA3D401EA94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{958C75C9-B56A-4B7C-9E16-2F82638E31FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{958C75C9-B56A-4B7C-9E16-2F82638E31FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{958C75C9-B56A-4B7C-9E16-2F82638E31FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AE90B768-ABB6-4008-A1CF-C64D2F874A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE90B768-ABB6-4008-A1CF-C64D2F874A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE90B768-ABB6-4008-A1CF-C64D2F874A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE90B768-ABB6-4008-A1CF-C64D2F874A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B098C4D5-7DBE-4FEF-A875-6CA3D401EA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B098C4D5-7DBE-4FEF-A875-6CA3D401EA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B098C4D5-7DBE-4FEF-A875-6CA3D401EA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B098C4D5-7DBE-4FEF-A875-6CA3D401EA94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

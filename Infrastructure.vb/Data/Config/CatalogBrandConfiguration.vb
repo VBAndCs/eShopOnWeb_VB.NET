@@ -10,15 +10,13 @@ Namespace Data.Config
     Public Class CatalogBrandConfiguration
         Implements IEntityTypeConfiguration(Of CatalogBrand)
         Public Sub Configure(builder As EntityTypeBuilder(Of CatalogBrand)) Implements IEntityTypeConfiguration(Of CatalogBrand).Configure
-            builder.HasKey(Function(ci) ci.Id)
+            builder.HasKey(NameOf(CatalogBrand.Id))
 
-            builder.Property(
-                Function(ci) ci.Id
+            builder.Property(NameOf(CatalogBrand.Id)
                 ).UseHiLo("catalog_brand_hilo").
                   IsRequired()
 
-            builder.Property(
-                Function(cb) cb.Brand
+            builder.Property(NameOf(CatalogBrand.Brand)
                 ).IsRequired().
                   HasMaxLength(100)
         End Sub

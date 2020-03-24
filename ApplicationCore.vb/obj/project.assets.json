@@ -4641,11 +4641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\_VS.NET\\Vazor 3\\Vazor\\eShopOnWeb.vazor\\ApplicationCore\\ApplicationCore.vbproj",
-      "projectName": "ApplicationCore",
-      "projectPath": "F:\\_VS.NET\\Vazor 3\\Vazor\\eShopOnWeb.vazor\\ApplicationCore\\ApplicationCore.vbproj",
+      "projectUniqueName": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj",
+      "projectName": "ApplicationCore.vb",
+      "projectPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\ApplicationCore.vb.vbproj",
       "packagesPath": "C:\\Users\\MHG\\.nuget\\packages\\",
-      "outputPath": "F:\\_VS.NET\\Vazor 3\\Vazor\\eShopOnWeb.vazor\\ApplicationCore\\obj\\",
+      "outputPath": "F:\\_VS.NET\\Vazor 3\\eShopOnWeb.vazor\\ApplicationCore.vb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

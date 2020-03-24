@@ -10,8 +10,8 @@ Namespace Specifications
         End Sub
 
         Public Sub New(ByVal buyerId As String)
-            MyBase.New(Function(b) b.BuyerId = buyerId)
-            AddInclude(Function(b) b.Items)
+            MyBase.New(Function(basket) basket.BuyerId = buyerId)
+            AddInclude(NameOf(Basket.Items))
         End Sub
     End Class
 End Namespace

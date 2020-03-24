@@ -6,12 +6,13 @@ Based on Microsoft Full web sample [eShopOnWeb](https://github.com/dotnet-archit
 I created a VB.NET version of this app, using [Vazor](https://github.com/VBAndCs/Vazor) and [ZML](https://github.com/VBAndCs/ZML) to design MVC views and Razor Pages, because ASP.NET Core Doesn't provide a razor syntax that supports VB.NET.
 I hope VB.NEt developers found it useful, and start creating their web applications targeting ASP.NET Core 3.1 using VB.NET and Vazor.
 
-# Note:
 The solution contains 3 projects:
-1. ApplicationCore.cs (a C# .NET standard library project)
-the repo also contains a VB.NET version named ApplicationCore.vb, but if you referenced it in the solution, it will causes a runtime exception. I will continue chasing this error until I fix it. I Hope you can help in this.
-2. Infrastructure.vb (a VB.NET .NET standard library project)
-3. Web.vb (a VB.NET ASP.NET Core 3.1 project)
+1. ApplicationCore.cv:
+a VB.NET .NET standard library project that contains database entities and expressions needed to configure EF Core.
+2. Infrastructure.vb
+a VB.NET .NET standard library project that defins the data repository, database context, data megrations, and other services.
+3. Web.vb
+a VB.NET ASP.NET Core 3.1 project, that contains MVC views and Razor Pages that designs the website.
 
 Eng. Mohammed Hamdy Ghanem,
 Egypt.
