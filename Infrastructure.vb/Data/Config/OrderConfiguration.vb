@@ -12,28 +12,28 @@ Namespace Data.Config
 
             builder.OwnsOne(
                 Function(o) o.ShipToAddress,
-                                Sub(x)
-                                    x.WithOwner()
+                Sub(x)
+                    x.WithOwner()
 
-                                    x.Property(NameOf(Address.ZipCode)
-                                               ).HasMaxLength(18).
-                                               IsRequired()
+                    x.Property(NameOf(Address.ZipCode)
+                                     ).HasMaxLength(18).
+                                       IsRequired()
 
-                                    x.Property(NameOf(Address.Street)
+                    x.Property(NameOf(Address.Street)
                                                ).HasMaxLength(180).
                                                IsRequired()
 
-                                    x.Property(NameOf(Address.State)
+                    x.Property(NameOf(Address.State)
                                                ).HasMaxLength(60)
 
-                                    x.Property(NameOf(Address.Country)
+                    x.Property(NameOf(Address.Country)
                                                ).HasMaxLength(90).
                                                IsRequired()
 
-                                    x.Property(NameOf(Address.City)
+                    x.Property(NameOf(Address.City)
                                                ).HasMaxLength(100).
                                                IsRequired()
-                                End Sub
+                End Sub
             )
         End Sub
     End Class

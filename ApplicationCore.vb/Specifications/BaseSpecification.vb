@@ -11,8 +11,13 @@ Namespace Specifications
         End Sub
 
         Public ReadOnly Property Criteria As Expression(Of Func(Of T, Boolean)) Implements ISpecification(Of T).Criteria
-        Public ReadOnly Property Includes As List(Of Expression(Of Func(Of T, Object))) = New List(Of Expression(Of Func(Of T, Object)))() Implements ISpecification(Of T).Includes
-        Public ReadOnly Property IncludeStrings As List(Of String) = New List(Of String)() Implements ISpecification(Of T).IncludeStrings
+        Public ReadOnly Property Includes _
+              As New List(Of Expression(Of Func(Of T, Object))) _
+             Implements ISpecification(Of T).Includes
+
+        Public ReadOnly Property IncludeStrings As New List(Of String) _
+            Implements ISpecification(Of T).IncludeStrings
+
         Public Property OrderBy As Expression(Of Func(Of T, Object)) Implements ISpecification(Of T).OrderBy
         Public Property OrderByDescending As Expression(Of Func(Of T, Object)) Implements ISpecification(Of T).OrderByDescending
         Public Property GroupBy As Expression(Of Func(Of T, Object)) Implements ISpecification(Of T).GroupBy

@@ -8,7 +8,6 @@ Namespace Specifications
             MyBase.New(Function(b) b.Id = basketId)
             AddInclude(Function(b) b.Items)
         End Sub
-
         Public Sub New(ByVal buyerId As String)
             MyBase.New(Function(basket) basket.BuyerId = buyerId)
             AddInclude(NameOf(Basket.Items))

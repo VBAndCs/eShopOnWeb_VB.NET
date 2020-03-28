@@ -1,0 +1,7 @@
+﻿<z:page/>
+<z:model type="PrivacyModel" />
+<z:title>Privacy Policy</z:title>
+
+<h1><z:title/></h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
