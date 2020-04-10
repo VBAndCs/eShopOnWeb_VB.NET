@@ -14,5 +14,8 @@ a VB.NET .NET standard library project that defins the data repository, database
 3. Web.vb: 
 a VB.NET ASP.NET Core 3.1 project, that contains MVC views and Razor Pages that designs the website.
 
+# Behind the scenes:
+Read about [Vazor history](https://github.com/VBAndCs/Vazor/blob/master/A-Vazor-story.md): how the idea was born, and grown until eShopOnWeb.vb was possible.
+
 Eng. Mohammed Hamdy Ghanem,
 Egypt.
